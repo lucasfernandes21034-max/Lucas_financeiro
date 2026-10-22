@@ -5,7 +5,7 @@ Aplicação web de gestão da **LSF Soluções** (Santa Maria/RS): controle de c
 ## Documentos
 
 - `PROMPT.md` — prompt de especificação do app, ponto de partida para o desenvolvimento.
-- `SPEC.md` — especificação (modelo de dados, regras e fórmulas). A criar.
+- `SPEC.md` — especificação: modelo de dados, regras de negócio e fórmulas dos indicadores.
 - `PLANO.md` — plano de marcos. A criar.
 
 ## Stack prevista
